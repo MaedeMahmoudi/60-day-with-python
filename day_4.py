@@ -1,6 +1,7 @@
 
 
 #variables and names
+#in programming a variable is nothing more than a name for something
 
 
 cars = 100
