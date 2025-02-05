@@ -1,7 +1,7 @@
 
 #day_8 printing, printing :)
 
-#we use %r foe debugging
+#we use %r for debugging
 #we use %s for string
 #we use %d for numbers
 
