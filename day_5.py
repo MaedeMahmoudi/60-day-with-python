@@ -19,3 +19,14 @@ print("his teeth are usually %s depending on the coffee." %my_teeth)
 #this line is tricky , try to get it exactly right
 
 print("if i add %d , %d , and %d i get %d ." %(my_age , my_height , my_weight , my_age + my_height + my_weight  )) 
+
+
+#answer
+
+#let's talk about zed A. shaw .
+#he's 74 inches tall.
+#he's 180 pounds heavy.
+#actually that's not too heavy.
+#he's got brown hair.
+#his teeth are usually white depending on the coffee.
+#if i add 35 , 74 , and 180 i get 289 .
