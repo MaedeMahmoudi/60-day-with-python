@@ -44,7 +44,7 @@ target.write("\n")
 print("and we finally close it.")
 target.close()
 
-# python day_14.py newfile2
+# python day_14.py file_day14.txt
 # we're going to erase 'newfile2' .
 # if you don't want that , hit CTRL-C (^c) .
 # if you do want that , hit RETURN .
